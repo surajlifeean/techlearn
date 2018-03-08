@@ -1,0 +1,28 @@
+@charset "utf-8";
+@media (min-width:1921px) and (max-width:2880px) { 
+
+}
+@media (min-width:1900px) and (max-width:1920px) {
+    .container{max-width:1645px}
+}
+@media (min-width:1400px) and (max-width:1900px) {
+}
+@media (min-width:1200px) and (max-width:1400px) {
+}
+@media (max-width:1199px) {
+}
+@media (max-width:1104px) {
+
+}
+@media (max-width:1034px) {
+}
+@media (max-width:991px) {
+}
+@media (max-width:767px) {
+}
+@media (max-width:620px) {
+}
+@media (max-width:580px) {
+}
+@media (max-width:480px) {
+}
